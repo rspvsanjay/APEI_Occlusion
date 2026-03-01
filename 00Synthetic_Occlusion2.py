@@ -497,4 +497,5 @@ if __name__ == "__main__":
 
         print(f"[{seq_idx+1}/{len(seq_folders)}] Saved occluded sequence to {out_seq_dir}")
 
+
     print("All done.")
